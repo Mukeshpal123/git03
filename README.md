@@ -42,7 +42,7 @@ Give a :star2: if this project healped you!
 
 ## :memo: License
 
-Copyright 2023 [Saurabh Giri.](www.linkedin.com/in/saurabh-giri-982a16229)
+Copyright 2023 [Saurabh Giri.](https://www.linkedin.com/in/saurabh-giri-982a16229)
 This project is [Geekster](https://www.geekster.in/) licensed .
 
 ___
