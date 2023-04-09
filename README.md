@@ -26,7 +26,7 @@
  
  :bust_in_silhouette: Saurabh Giri
  * HackerRank : [@Saurabhgiri](https://www.hackerrank.com/saurabhgiriltp?hr_r=1 "Hackerrank")
- * github : [@Saurabhgiri](https://github.com/SaurabhGiri16/git03/edit/main "github")
+ * github : [@Saurabhgiri](https://github.com/SaurabhGiri16/git03/blob/main/README.md "github")
  <br>
  
  ## :handshake: Contributing
