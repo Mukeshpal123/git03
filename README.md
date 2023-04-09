@@ -62,7 +62,7 @@ ___
 `<p>This is a Paragraph /<p>`
 
 <!-- Image --> 
-![Geekster logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.geekster.in%2F&psig=AOvVaw2iJzVEi83kw-91T5jJVgFf&ust=1681112300463000&source=images&cd=vfe&ved=0CBAQ3YkBahcKEwiI-Ia-pZz-AhUAAAAAHQAAAAAQBw "Geekster")
+![Geekster logo](https://images.yourstory.com/cs/images/companies/c35bc9859526-IMG08431-1633319245285.jpg?fm=auto&ar=1:1&mode=fill&fill=solid&fill-color=fff "Geekster")
 
 <!-- code blochs-->
 ```
