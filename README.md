@@ -1,5 +1,85 @@
 # git03
-<!-- i don't have any project to write the readme file to describe discription and related instructions and also this is for learning purpose so i write codes for everything that i learn from the atteched video .-->
+ ### Homepage
+ 
+ ### Properties
+ ---
+ * npm >= 5.5.0
+ * node >= 9.3.0
+ <br>
+ 
+ ## Install
+ ---
+ ```
+ npm install
+ ```
+ ## Usage
+ ---
+ ```
+ npm run start
+ ```
+ ## Run tests
+ ---
+ ```
+ npm run test
+ ```
+ ## Author
+ ---
+ Saurabh Giri
+ * HackerRank : [@Saurabhgiri](https://www.hackerrank.com/saurabhgiriltp?hr_r=1 "Hackerrank")
+ * github : [@Saurabhgiri](https://github.com/SaurabhGiri16/git03/edit/main "github")
+ <br>
+ 
+ ## Contributing
+ ___
+ Contribution, issues and feature requests are welcome.
+ <br>
+ Feel free to check [issues page.](https://www.geekster.in/)
+ <br> 
+ 
+ ## Show your support
+---
+Give a   if this project healped you!
+
+## License
+___
+Copyright 2023 [Saurabh Giri.](www.linkedin.com/in/saurabh-giri-982a16229)
+This project is [Geekster](https://www.geekster.in/) licensed .
+
+___
+This REDEME was generated with   by [Saurabh giri.](www.linkedin.com/in/saurabh-giri-982a16229)
+
+
+
+
+           #TASK COMPLETE
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- Headings (H1 - H6)/ markup language has some headings h1 to h6 . h1 is the largest heading and h6 is the smallest heading  -->
 
