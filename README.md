@@ -1,5 +1,5 @@
 # git03
- ### Homepage
+ ### :house_with_garden: Homepage
  
  ### Properties
  ---
@@ -24,12 +24,12 @@
  ```
  ## Author
  ---
- Saurabh Giri
+ :bust_in_silhouette: Saurabh Giri
  * HackerRank : [@Saurabhgiri](https://www.hackerrank.com/saurabhgiriltp?hr_r=1 "Hackerrank")
  * github : [@Saurabhgiri](https://github.com/SaurabhGiri16/git03/edit/main "github")
  <br>
  
- ## Contributing
+ ## :handshake: Contributing
  ___
  Contribution, issues and feature requests are welcome.
  <br>
@@ -38,15 +38,15 @@
  
  ## Show your support
 ---
-Give a   if this project healped you!
+Give a :star2: if this project healped you!
 
-## License
+## :memo: License
 ___
 Copyright 2023 [Saurabh Giri.](www.linkedin.com/in/saurabh-giri-982a16229)
 This project is [Geekster](https://www.geekster.in/) licensed .
 
 ___
-This REDEME was generated with   by [Saurabh giri.](www.linkedin.com/in/saurabh-giri-982a16229)
+This REDEME was generated with :heart: by [Saurabh giri.](www.linkedin.com/in/saurabh-giri-982a16229)
 
 
 
@@ -172,6 +172,8 @@ return num1+num2;
 * [x] Task 02
 * [ ] Task 03
 * [x] Task 04
+
+
 
 
 
