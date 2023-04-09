@@ -46,7 +46,7 @@ Copyright 2023 [Saurabh Giri.](https://www.linkedin.com/in/saurabh-giri-982a1622
 This project is [Geekster](https://www.geekster.in/) licensed .
 
 ___
-This REDEME was generated with :heart: by [Saurabh giri.](https://instagram.com/_saurabhg_16_?igshid=ZDdkNTZiNTM=)
+This README was generated with :heart: by [Saurabh giri.](https://instagram.com/_saurabhg_16_?igshid=ZDdkNTZiNTM=)
 
 
 
